@@ -1,2 +1,1 @@
-# 1st-website
-my website
+# A SAMPLE FOR THE SKILLS MODEL i WORKEDE IN CODEMAO Company
